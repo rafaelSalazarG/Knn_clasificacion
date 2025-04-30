@@ -1,5 +1,5 @@
 # Knn_clasificacion
-Este código implementa un sistema de clasificación de imágenes basado en los algoritmos K-Means y K-Nearest Neighbors (KNN). Está diseñado para identificar objetos como tornillos, clavos, arandelas y tuercas a partir de imágenes binarizadas.
+Este código implementa un sistema de clasificación de imágenes basado en los algoritmos K-Means y K-Nearest Neighbors (KNN). Está diseñado para identificar objetos como tornillos, clavos, arandelas y tuercas a partir de imágenes binarizadas. El código presentado debe servir como ejemplo, dado que no se proveen las imágenes necesarias para entrenar al algoritmo de ML.
 A continuación, se explica su funcionamiento:
 
 1. Cálculo de características (Momentos de Hu)
